@@ -22,7 +22,7 @@ A curated collection of educational links and videos covering various cybersecur
 **Type:** YouTube Video
 **URL:** https://www.youtube.com/watch?v=j9QmMEWmcfo
 
-### Kernel
+### Kernel within an Operating System
 **Name:** How Does Linux Boot Process Work- - YouTube
 **Type:** YouTube Video
 **URL:** https://www.youtube.com/watch?v=XpFsMB6FoOs
@@ -36,7 +36,7 @@ A curated collection of educational links and videos covering various cybersecur
 **Type:** YouTube Video
 **URL:** https://www.youtube.com/watch?v=sMHzfigUxz4
 
-### API
+### Application Programming Interface (API)
 **Name:** Top 6 Most Popular API Architecture Styles - YouTube
 **Type:** YouTube Video
 **URL:** https://www.youtube.com/watch?v=4vLxWqE94l4
