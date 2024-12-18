@@ -6,6 +6,8 @@ A curated collection of educational links and videos covering various cybersecur
 Alyami, A., Sammon, D., Neville, K., & Mahony, C. (2024). Critical success factors for Security Education, Training and Awareness (SETA) programme effectiveness: an empirical comparison of practitioner perspectives. Information & Computer Security, 32(1), 53-73.
 https://www.emerald.com/insight/content/doi/10.1108/ics-08-2022-0133/full/html 
 
+# Topics
+
 ## Refreshers
 ### Endianness
 **Name:** Endianness Explained - YouTube
