@@ -1,6 +1,6 @@
-# Security Learning Resources
+# Cyber Security Learning Resources
 
-A curated collection of educational videos covering various cybersecurity and computer science topics.
+A curated collection of educational links and videos covering various cybersecurity and computer science topics.
 
 ## Refreshers
 ### Endianness
